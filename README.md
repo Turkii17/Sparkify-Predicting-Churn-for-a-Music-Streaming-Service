@@ -20,10 +20,10 @@ The project involved the following steps:
 4. Modeling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, and Naive Bayes.
 
 ## File Descriptions
-There is one exploratory notebook and an HTML file of the notebook available [here](#) to showcase the work in predicting churn. Markdown cells were used throughout to explain the process taken.
+There is one exploratory notebook and an HTML file of the notebook to showcase the work in predicting churn. Markdown cells were used throughout to explain the process taken.
 
 ## Medium Blog Post
-The main findings of the code can be found in the [Medium Blog post](#) explaining the technical details of the project. A Random Forest Classifier was selected as the best model based on evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
+The main findings of the code can be found in the [Medium Blog post](https://medium.com/@turkiabalzahrani/sparkify-predicting-churn-for-a-music-streaming-service-821fda0adf74) explaining the technical details of the project. A Random Forest Classifier was selected as the best model based on evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
 
 ## Licensing, Authors, Acknowledgements, etc.
 I would like to acknowledge Udacity for the project idea and workspace.
